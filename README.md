@@ -41,4 +41,5 @@ A responsive personal portfolio website showcasing skills, projects, and contact
 - HTML & CSS validated
 
 ## Screenshots
-(Add screenshots here)
+<img width="1919" height="733" alt="image" src="https://github.com/user-attachments/assets/341f94b3-2bad-4bab-9011-5e4ba06b922c" />
+
